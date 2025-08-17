@@ -6,7 +6,9 @@ Files are organized by day:
 - *Day1* – Basics & Simple Programs  
 - *Day2* – Loops & Conditions  
 - *Day3* – Arrays & Functions  
-- *Day4* – Nested Loops & Patterns  
+- *Day4* – Nested Loops & Patterns
+- *Day5* – Arrays Basics(1d & 2d)
+- *Day6* – Strings & Concepts 
 
 ## Notes
 - All code is in Java  
