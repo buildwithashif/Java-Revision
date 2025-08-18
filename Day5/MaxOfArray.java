@@ -20,6 +20,6 @@ public class MaxOfArray {
                 max = arr[i];
             }
             }
-        System.out.print("Maximum element: " max);
+        System.out.print("Maximum element: "+ max);
 }
 }

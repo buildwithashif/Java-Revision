@@ -4,10 +4,10 @@ public class Print2DMatrix {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 
-        // System.out.print("Enter the no of rows: ");
-        // int m = sc.nextInt();
-        // System.out.print("Enter the no of columns: ");
-        // int n = sc.nextInt();
+        System.out.print("Enter the no of rows: ");
+        int m = sc.nextInt();
+        System.out.print("Enter the no of columns: ");
+        int n = sc.nextInt();
 
         // int matrix[][] = new int[m][n];
 
