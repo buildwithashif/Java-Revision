@@ -1,6 +1,6 @@
-# Java DSA Practice
+# Java Revision
 
-This repository contains my **Java practice programs** from basics to intermediate DSA topics.  
+This repository contains my **Java practice programs** from basics to intermediate topics.  
 Each day covers different topics with example programs.
 
 ## Folder Structure
