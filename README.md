@@ -1,16 +1,14 @@
-# Java Revision - 0 to Placement Journey
+# Java DSA Practice
 
-This repository contains my Java practice and revision programs as part of my "0 to Placement Journey".  
-Files are organized by day:
+This repository contains my **Java practice programs** from basics to intermediate DSA topics.  
+Each day covers different topics with example programs.
 
-- *Day1* – Basics & Simple Programs  
-- *Day2* – Loops & Conditions  
-- *Day3* – Arrays & Functions  
-- *Day4* – Nested Loops & Patterns
-- *Day5* – Arrays Basics(1d & 2d)
-- *Day6* – Strings & Concepts 
+## Folder Structure
 
-## Notes
-- All code is in Java  
-- Unnecessary files are ignored via .gitignore
-- Each day has easy, medium, and hard problems
+- **Day01_Basics** → Java basics, input/output, simple programs  
+- **Day02_Operators** → Arithmetic, Logical, Bitwise, Assignment operators  
+- **Day03_ControlFlow** → If-else, switch, loops  
+- **Day04_NestedLoopsPatterns** → Patterns (square, triangle, pyramid, diamond, Pascal’s triangle)  
+- **Day05_Arrays1D2D** → 1D and 2D arrays, array operations  
+- **Day06_Strings** → String operations, palindrome, concatenation, anagrams  
+- **Day07_Functions** → Functions revision, factorial, prime check, max of three numbers  
